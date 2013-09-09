@@ -12,6 +12,8 @@ To compile, gcc Helloworld.c -o Helloworld
 To run, ./Helloword.exe
 To show code, less Helloworld.c
 
+git add HelloWorld.c
+
 
 && means "and"
 || means "or"
